@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header:
-  image: "/images/zakim.jpg"
+  image: "/images/conscious-design-JO5QW9-1ZD8-unsplash.jpg"
 ---
 
 I am a graduate student pursuing a Masters in Operations Research, with interest in the field of Data Science and Machine Learning.
