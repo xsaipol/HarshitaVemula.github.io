@@ -1,24 +1,27 @@
 ---
-title: "Data Wrangling Project"
+title: "How does Affinity Propagation work?"
 date: 2018-01-28
-tags: [data wrangling, data science, messy data]
+tags: [data science, clustering, unsupervised data]
 header:
   image: "/images/perceptron/percept.jpg"
-excerpt: "Data Wrangling, Data Science, Messy Data"
+excerpt: "Data Science,Machine Learning, Clustering, Affinity Propagation"
 mathjax: "true"
 ---
 
-# H1 Heading
+# How does Affinity Propagation work?
 
-## H2 Heading
+## The Math and Intuition behind it.
 
 ### H3 Heading
 
-Here's some basic text.
+Affinity propagation (AP) is a centroid based clustering algorithm similar to k Means or K medoids, which does not require the estimation of the number of clusters before running the algorithm. Affinity propagation finds “exemplars” i.e. members of the input set that are representative of clusters.
 
 And here's some *italics*
 
-Here's some **bold** text.
+**The math behind the algorithm**
+
+AP takes as input the similarities between the data points and identifies exemplars based on certain criteria. Messages are exchanged between the data points until a high-quality set of exemplars are obtained.
+let us try to understand this algorithm with the help of an example. We have information about the preferences of five participants.
 
 What about a [link](https://github.com/dataoptimal)?
 
