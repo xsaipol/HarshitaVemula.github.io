@@ -11,4 +11,4 @@ I have a strong working knowledge of deep learning, machine learning, and statis
 
 I am comfortable working in a fast-paced, highly collaborative and dynamic work environment.I have the ability to think creatively to solve problems and can self-direct and self-motivate to achieve the required results.
 
-> hjfd
+
