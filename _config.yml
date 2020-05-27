@@ -85,7 +85,7 @@ analytics:
 # Site Author
 author:
   name             : "Harshita Vemula"
-  avatar           : "/images/bio-pic-2.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/images/IMG_2536.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data Science Portfolio"
   location         : "Texas, USA"
   email            :
