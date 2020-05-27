@@ -11,7 +11,9 @@ I have a strong working knowledge of optimization, deep learning, machine learni
 
 Coursework:
 Linear Programming: <em>Introduction to linear optimization - Dimitris Bertsimas</em>, 
+
 Integer Programming: <em>Integer programming - Laurence Wolsey</em>, 
+
 Linear Models, 
 Applied Stochastic Processes: </em>Modeling and Analysis of Stochastic Systems - Vidyadhar W. Kulkarni</em>, 
 Time series and systems analysis: <em>Time-Series and System Analysis with Application - S.M.Pandit and S.M.Wu</em>, Reinforcement Learning: <em>Reinforcement Learning: An Introduction - Andrew Barto and Richard S. Sutton</em>, 
